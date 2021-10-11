@@ -23,3 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 .idea
 .vscode
+
+raw_reports
+cypress/screenshots
+cypress/videos
+reports
+package-lock.json
