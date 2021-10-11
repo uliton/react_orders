@@ -6,7 +6,7 @@ import './App.scss';
 // import products from './api/products.json';
 // import orders from './api/orders.json';
 
-function App() {
+const App: React.FC = () => {
   return (
     <div className="container">
       <div className="ui card">
@@ -69,6 +69,6 @@ function App() {
       </div>
     </div>
   );
-}
+};
 
 export default App;

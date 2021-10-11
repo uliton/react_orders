@@ -2,6 +2,7 @@
 - Replace `<your_account>` with your Github username in the
   [DEMO LINK](https://<your_account>.github.io/react_orders/)
 - Follow the [React task guideline](https://github.com/mate-academy/react_task-guideline#react-tasks-guideline)
+- Use [React TypeScript cheat sheet](https://mate-academy.github.io/fe-program/js/extra/react-typescript)
 
 ## Task
 - Implement an application with 5 components `OrderList`, `Order`, `User`, `ProductList` and `Product`
